@@ -5,7 +5,7 @@ SQL analysis of monthly user message activity and engagement metrics.
 Analyze monthly messages sent to users and calculate the percentage of messages for each user.
 
 ## Tools
-SQL, Joins, Aggregations, Window Functions, Date Functions, Views
+SQL (Joins, Aggregations, Window Functions, Date Functions, Views)
 
 ## Key Insights
 - The dataset shows monthly message activity for each user.
